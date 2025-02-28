@@ -1,4 +1,4 @@
-# Math Problem Collection
+# Auto-CoT on MultiArith
 
 ## Problem 1
 **Question:** For Halloween Megan received 11 pieces of candy from neighbors and 5 pieces from her older sister. If she only ate 8 pieces a day, how long would the candy last her?
